@@ -1,0 +1,17 @@
+#klicka{
+    width:20%
+    size:5%
+}
+.box {
+    display: block;
+  }
+  
+  .button {
+    background-color: #fff;
+    border: 1px solid #dbdbdb
+  }
+  
+  .button:hover {
+    background-color: #dbdbdb;
+    border: 1px solid #f0f
+  }
